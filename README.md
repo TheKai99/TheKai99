@@ -1,12 +1,7 @@
 # Shubham 👋
 
 ## About
-CS student focused on backend development.
-Building real projects, solving DSA daily, going deep over broad.
+CS student focused learning backend engineering from first princliples.
+Building real projects, going deep over broad.
 
-## 📚 Learning Path
-Python → DSA → Django → PostgreSQL → AI Integration → Fast API → Full Scale projects
-
-## 💻 Stack
-Python | REST APIs | Git
 
